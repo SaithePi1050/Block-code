@@ -1,0 +1,42 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    all: background: grey
+}
+
+.div1 img {
+    width: 100%;
+}
+
+.movie-header{
+    font-size: 18px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.movie-header i{
+    float: right;
+}
+
+#Avengers-Endgame span{
+    color: orange;
+}
+
+#Shang-Chi-img{
+    width: 460px;
+    height: 712px;
+}
+
+#Shang-Chi span{
+    color: orange;
+}
